@@ -12,7 +12,7 @@ A little Java Script app written using Vanilla Java Script that is using MapBox 
 
 Requires nothing except opening HTML in browser. All job is done on client-side (i.e. in browser) and can be run locally without the need for any server.
 
-![Picture 2. Configuration classes.](https://github.com/optiklab/timezones.web.vanilla/blob/master/images/find-timezones.jpg)
+![Picture 2. Configuration classes.](https://github.com/optiklab/timezones.web.vanilla/blob/main/images/find-timezones.jpg)
 
 
 However, it cannot be hosted as is on any custom domain due to CORS policies limitations executed by Browsers.
